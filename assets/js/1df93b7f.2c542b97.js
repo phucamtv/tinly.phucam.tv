@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktinly=self.webpackChunktinly||[]).push([[237],{9754:function(n,t,e){e.r(t),e.d(t,{default:function(){return r}});var u=e(7294),c=e(6775);function r(){return u.createElement(c.l_,{to:"/docs/Thanh-Kinh"})}}}]);
