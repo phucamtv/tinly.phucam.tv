@@ -65,8 +65,8 @@ const config: Config = {
                     title: "Tài Liệu",
                     items: [
                         {
-                            label: "Tín Lý",
-                            to: "https://tinly.phucam.tv/",
+                            label: "Tìm Hiểu Thánh Kinh",
+                            to: "https://thanhkinh.vercel.app/",
                         },
                         {
                             label: "Lẽ thật Ngày Sa-bát",
